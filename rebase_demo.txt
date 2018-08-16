@@ -1,0 +1,3 @@
+a demo change for showing git rebase
+
+line 2
